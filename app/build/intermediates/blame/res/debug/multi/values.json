@@ -1,0 +1,164 @@
+[
+    {
+        "outputFile": "C:\\Maxwork\\Educational activities\\Android\\Lectures\\3. Resources & UI\\AnimationSample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "C:\\Maxwork\\Educational activities\\Android\\Lectures\\3. Resources & UI\\AnimationSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 123,
+                        "endColumn": 47,
+                        "endOffset": 166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 103,
+                    "endColumn": 49,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "C:\\Maxwork\\Educational activities\\Android\\Lectures\\3. Resources & UI\\AnimationSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endColumn": 49,
+                        "endOffset": 270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 66,
+                    "endOffset": 215
+                },
+                "from": {
+                    "file": "C:\\Maxwork\\Educational activities\\Android\\Lectures\\3. Resources & UI\\AnimationSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 66,
+                        "endOffset": 118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 220,
+                    "endColumn": 53,
+                    "endOffset": 269
+                },
+                "from": {
+                    "file": "C:\\Maxwork\\Educational activities\\Android\\Lectures\\3. Resources & UI\\AnimationSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 171,
+                        "endColumn": 53,
+                        "endOffset": 220
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Maxwork\\Educational activities\\Android\\Latest\\3. Resources & UI\\AnimationSample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "C:\\Maxwork\\Educational activities\\Android\\Latest\\3. Resources & UI\\AnimationSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 123,
+                        "endColumn": 47,
+                        "endOffset": 166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 103,
+                    "endColumn": 49,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "C:\\Maxwork\\Educational activities\\Android\\Latest\\3. Resources & UI\\AnimationSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endColumn": 49,
+                        "endOffset": 270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 66,
+                    "endOffset": 215
+                },
+                "from": {
+                    "file": "C:\\Maxwork\\Educational activities\\Android\\Latest\\3. Resources & UI\\AnimationSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 66,
+                        "endOffset": 118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 220,
+                    "endColumn": 53,
+                    "endOffset": 269
+                },
+                "from": {
+                    "file": "C:\\Maxwork\\Educational activities\\Android\\Latest\\3. Resources & UI\\AnimationSample\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 171,
+                        "endColumn": 53,
+                        "endOffset": 220
+                    }
+                }
+            }
+        ]
+    }
+]
